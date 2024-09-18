@@ -43,7 +43,7 @@ function RandomColorGenerator() {
           fontFamily: 'Arial',
         }}
       >
-        Generated color: {color}
+        Generated Color: {color}
       </div>
 
       {/* Button for user input */}
